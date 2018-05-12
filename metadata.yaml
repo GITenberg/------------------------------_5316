@@ -1,6 +1,9 @@
 _repo: '------------------------------_5316'
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Krasavitse, Kotoraya Niuhala Tabak
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pushkin, Aleksandr Sergeevich
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
     - http://www.museum.ru/Pushkin/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5316#------------------------------
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
